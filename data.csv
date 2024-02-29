@@ -1,0 +1,60 @@
+age,gender,frequency_wake_up_during_the_night,quality_of_sleep,sleep_duration,profession,profession status,exercise,sleep_disorder,stress_levels,Use.of.electronic.devices.before.bed,caffeine_before_sleeping,frequency.of.caffeine.consumption.before.sleep,consistent_bedtime_routine,dietary_habits,consumption_of_heavy_meals_close_to_bedtime,regular_meal_schedule,emotional_state_before_bedtime,work_schedule,naps_during_the_day
+21,Male,1,Good,5-7 hours,student,Student,1-2 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Occasionally
+22,Male,1,Good,5-7 hours,student,Student ,less than 1 hours per day,No,Very Low,Yes,No,Rarely,No,Unhealthy,Yes,No,Relaxed,Regular daytime hours,Rarely
+20,Male,1,Good,5-7 hours,student,Student,less than 1 hours per day,No,Low,Yes,No,Rarely,Yes,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Rarely
+19,Male,1,Good,7+ hours,student,Student ,1-2 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,Yes,No,Neutral,Regular daytime hours,Never
+21,Male,1,Fair,5-7 hours,student,MBBS,less than 1 hours per day,No,Moderate,Yes,No,Rarely,Yes,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Occasionally
+26,Female,1,Fair,7+ hours,working ,information security risk analyst ,less than 1 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,Yes,Yes,Happy,Irregular hours,Occasionally
+21,Female,2,Fair,5-7 hours,student,Student,less than 1 hours per day,No,High,Yes,No,Rarely,Yes,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Frequently
+21,Male,1,Good,7+ hours,student,Student ,less than 1 hours per day,No,Low,Yes,No,Rarely,Yes,Healthy,Yes,Yes,Happy,Regular daytime hours,Never
+20,Female,2,Fair,3-5 hours,student,Student ,1-2 hours per day,Yes,Moderate,No,Yes,Occasionally,No,Moderately Healthy,No,No,Anxious,Regular daytime hours,Occasionally
+30,Female,1,Good,5-7 hours,working ,Teacher ,less than 1 hours per day,No,Low,No,No,Rarely,Yes,Healthy,No,Yes,Happy,Regular daytime hours,Rarely
+21,Male,0,Excellent,7+ hours,student,Student ,less than 1 hours per day,No,Low,Yes,No,None,Yes,Healthy,No,Yes,Relaxed,Regular daytime hours,Never
+21,Male,2,Fair,5-7 hours,student,Student ,less than 1 hours per day,No,Moderate,Yes,No,None,No,Healthy,Yes,No,Neutral,Irregular hours,Rarely
+27,Male,2,Fair,7+ hours,working ,Self employed (CSC) ,less than 1 hours per day,No,Moderate,Yes,No,None,Yes,Moderately Healthy,Yes,No,Stressed,Regular daytime hours,Rarely
+20,Female,1,Good,7+ hours,working ,Support Engineer ,1-2 hours per day,No,High,Yes,No,None,No,Moderately Healthy,Yes,Yes,Happy,Regular daytime hours,Rarely
+21,Male,1,Good,5-7 hours,working ,Engineer,2+ hours per day,No,Moderate,Yes,No,None,Yes,Moderately Healthy,No,Yes,Relaxed,Regular daytime hours,Rarely
+21,Female,2,Good,7+ hours,student,student,less than 1 hours per day,No,Moderate,Yes,No,Occasionally,Yes,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Occasionally
+21,Male,1,Fair,5-7 hours,working ,Software developer,less than 1 hours per day,No,High,Yes,No,None,Yes,Healthy,No,Yes,Stressed,Regular daytime hours,Never
+22,Male,2,Fair,5-7 hours,student,Student ,2+ hours per day,No,Moderate,Yes,No,None,Yes,Moderately Healthy,Yes,Yes,Relaxed,Regular daytime hours,Occasionally
+26,Male,3,Poor,3-5 hours,student,Student ,1-2 hours per day,No,Very Low,Yes,No,Occasionally,No,Moderately Healthy,Yes,Yes,Anxious,Regular daytime hours,Rarely
+20,Male,4,Excellent,3-5 hours,student,Student,2+ hours per day,No,Very Low,Yes,No,None,Yes,Healthy,Yes,Yes,Relaxed,Regular daytime hours,Never
+22,Male,3,Poor,3-5 hours,student,Student ,1-2 hours per day,No,Low,No,No,Occasionally,No,Moderately Healthy,No,No,Neutral,Regular daytime hours,Occasionally
+22,Male,0,Good,5-7 hours,student,Student,less than 1 hours per day,No,Moderate,Yes,No,None,No,Moderately Healthy,Yes,Yes,Relaxed,Regular daytime hours,Rarely
+21,Male,0,Fair,5-7 hours,student,Medical student ,1-2 hours per day,No,Moderate,Yes,No,Rarely,Yes,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Occasionally
+21,Male,5,Very Poor,1-3 hours,working ,job,less than 1 hours per day,Yes,Very High,Yes,Yes,None,Yes,Healthy,Yes,Yes,Relaxed,Regular daytime hours,Never
+22,Male,2,Good,5-7 hours,student,Student ,1-2 hours per day,No,Moderate,No,No,None,Yes,Moderately Healthy,No,Yes,Happy,Regular daytime hours,Rarely
+21,Male,0,Fair,5-7 hours,student,Student ,less than 1 hours per day,No,Low,Yes,No,None,No,Healthy,Yes,Yes,Neutral,Regular daytime hours,Rarely
+21,Male,0,Good,5-7 hours,working ,web developer,less than 1 hours per day,No,Moderate,Yes,No,None,Yes,Moderately Healthy,Yes,Yes,Neutral,Regular daytime hours,Occasionally
+22,Male,2,Fair,5-7 hours,student,student,1-2 hours per day,No,Low,Yes,No,Rarely,Yes,Moderately Healthy,Yes,No,Relaxed,Regular daytime hours,Occasionally
+35,Male,3,Poor,3-5 hours,student,unemployed,less than 1 hours per day,No,High,No,No,Rarely,No,Unhealthy,No,No,Anxious,Night Shifts,Occasionally
+27,Male,2,Poor,5-7 hours,working ,Private job,less than 1 hours per day,No,Moderate,Yes,No,None,No,Moderately Healthy,No,No,Neutral,Night Shifts,Occasionally
+22,Male,1,Fair,7+ hours,working ,Intern ,less than 1 hours per day,No,Moderate,Yes,No,None,No,Healthy,No,Yes,Anxious,Regular daytime hours,Rarely
+23,Male,1,Fair,5-7 hours,working ,DBA,less than 1 hours per day,No,Low,Yes,No,None,Yes,Healthy,No,Yes,Happy,Rotating shifts,Never
+17,Female,1,Poor,3-5 hours,student,diploma student,1-2 hours per day,No,Moderate,Yes,Yes,Frequently,No,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Rarely
+17,Female,0,Good,7+ hours,student,Student ,less than 1 hours per day,No,Low,Yes,No,None,No,Unhealthy,Yes,No,Relaxed,Regular daytime hours,Rarely
+13,Female,0,Good,5-7 hours,student,Student ,1-2 hours per day,No,Moderate,Yes,No,None,Yes,Moderately Healthy,No,Yes,Relaxed,Regular daytime hours,Rarely
+18,Male,0,Excellent,3-5 hours,student,Student ,less than 1 hours per day,No,Moderate,Yes,No,Occasionally,No,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Occasionally
+23,Male,0,Good,7+ hours,working ,Software developer,1-2 hours per day,No,High,Yes,No,None,No,Healthy,No,Yes,Neutral,Regular daytime hours,Rarely
+17,Male,1,Poor,5-7 hours,student,Studying,less than 1 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,Yes,Yes,Stressed,Regular daytime hours,Rarely
+12,Female,0,Good,5-7 hours,student,Non,less than 1 hours per day,No,Low,Yes,No,None,No,Moderately Healthy,No,Yes,Happy,Regular daytime hours,Occasionally
+21,Male,1,Fair,7+ hours,working ,Backend developer,less than 1 hours per day,No,Very High,Yes,No,None,No,Moderately Healthy,No,Yes,Stressed,Regular daytime hours,Never
+21,Male,5,Very Poor,1-3 hours,student,Student ,2+ hours per day,Yes,Very High,Yes,Yes,Frequently,No,Unhealthy,Yes,No,Stressed,Regular daytime hours,Never
+18,Male,0,Good,7+ hours,student,Student ,1-2 hours per day,No,Moderate,Yes,No,None,Yes,Healthy,No,Yes,Relaxed,Regular daytime hours,Never
+17,Male,1,Excellent,7+ hours,student,Student ,1-2 hours per day,No,Moderate,Yes,No,Rarely,No,Unhealthy,Yes,No,Stressed,Regular daytime hours,Occasionally
+17,Male,0,Excellent,7+ hours,student,Student ,1-2 hours per day,No,Moderate,Yes,No,Rarely,No,Unhealthy,Yes,No,Stressed,Regular daytime hours,Occasionally
+18,Male,0,Fair,3-5 hours,student,Studying,less than 1 hours per day,No,High,Yes,Yes,Occasionally,No,Moderately Healthy,Yes,No,Relaxed,Regular daytime hours,Rarely
+21,Female,1,Fair,7+ hours,student,Law student,less than 1 hours per day,No,Moderate,Yes,No,None,No,Unhealthy,Yes,No,Neutral,Irregular hours,Rarely
+32,Male,0,Fair,5-7 hours,working ,Cateres Owner,1-2 hours per day,No,Moderate,Yes,No,None,Yes,Healthy,No,Yes,Stressed,Irregular hours,Never
+21,Male,0,Fair,5-7 hours,student,student,less than 1 hours per day,No,Moderate,Yes,No,Occasionally,No,Moderately Healthy,Yes,No,Neutral,Irregular hours,Occasionally
+22,Male,0,Good,5-7 hours,working ,software developer,less than 1 hours per day,No,High,Yes,No,Occasionally,No,Unhealthy,Yes,No,Anxious,Rotating shifts,Rarely
+18,Male,2,Fair,5-7 hours,student,I'm a student ,1-2 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,Yes,No,Neutral,Irregular hours,Rarely
+18,Male,0,Fair,5-7 hours,student,Student ,less than 1 hours per day,No,High,Yes,No,None,Yes,Moderately Healthy,Yes,Yes,Neutral,Regular daytime hours,Occasionally
+23,Male,0,Fair,5-7 hours,working ,data analyst,less than 1 hours per day,No,Moderate,Yes,No,Rarely,Yes,Moderately Healthy,No,Yes,Neutral,Rotating shifts,Never
+24,Male,0,Good,3-5 hours,working ,developer,less than 1 hours per day,No,Moderate,Yes,No,Rarely,No,Moderately Healthy,No,Yes,Neutral,Regular daytime hours,Never
+18,Male,0,Good,5-7 hours,student,Student ,1-2 hours per day,No,Moderate,No,No,None,Yes,Moderately Healthy,No,Yes,Relaxed,Irregular hours,Frequently
+30,Male,0,Good,5-7 hours,working ,private job,less than 1 hours per day,No,Low,No,No,None,Yes,Healthy,No,Yes,Happy,Regular daytime hours,Never
+23,Male,0,Poor,3-5 hours,working ,private job,less than 1 hours per day,No,Moderate,Yes,Yes,Rarely,No,Healthy,No,Yes,Anxious,Night Shifts,Never
+23,Female,0,Good,5-7 hours,working ,job,less than 1 hours per day,No,Moderate,No,No,Rarely,Yes,Moderately Healthy,No,Yes,Happy,Regular daytime hours,Never
+18,Male,0,Good,5-7 hours,student,Student,1-2 hours per day,No,Moderate,Yes,No,None,No,Moderately Healthy,No,Yes,Relaxed,Regular daytime hours,Never
+17,Male,0,Very Poor,5-7 hours,student,No,less than 1 hours per day,No,Moderate,No,No,None,Yes,Healthy,No,No,Happy,Regular daytime hours,Rarely
